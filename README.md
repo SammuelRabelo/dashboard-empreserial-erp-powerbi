@@ -1,9 +1,11 @@
 # 📊 Dashboard de Diagnóstico e Análise de Resultados
 
 ## 📝 Sobre o Projeto
-Este projeto de Business Intelligence foi desenvolvido para analisar os resultados operacionais e indicadores de performance. O objetivo principal do relatório é fornecer aos tomadores de decisão uma visão clara e interativa sobre o faturamento, status de pagamentos, recebimentos e conversão de propostas comerciais.
+Este projeto de Business Intelligence foi desenvolvido sob demanda para um **cliente real**. O principal desafio do projeto era superar as limitações do sistema ERP utilizado pela empresa, que era engessado e não oferecia facilidade ou flexibilidade para a geração de relatórios gerenciais.
 
-> **Nota:** Os dados utilizados neste projeto são fictícios ou foram anonimizados por questões de confidencialidade, garantindo a proteção das informações.
+O objetivo do dashboard é atuar como a camada de inteligência da empresa: ele extrai os dados diretamente desse ERP e os transforma em visualizações claras e interativas. Com isso, o projeto democratizou o acesso à informação, auxiliando ativamente na tomada de decisão estratégica em **todas as principais áreas da empresa** (Comercial, CRM, Faturamento e Financeiro).
+
+> **Nota:** Os dados expostos nas imagens e vídeos deste repositório foram anonimizados (substituídos por dados fictícios ou ocultados) por questões de confidencialidade e respeito à privacidade do cliente.
 
 ## 🎥 Demonstração em Vídeo
 Confira abaixo a navegação, os filtros dinâmicos e as funcionalidades do dashboard em ação:
